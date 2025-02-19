@@ -20,7 +20,7 @@ This repository contains two Python scripts demonstrating how to extract researc
 
 ## Google Sheets
 
-The results of the bulk CSV parsing script can be seen in following Google Sheets:
+The Google Sheet linked below presents the [2025 HEP Theory Postdoc Rumor Mill](https://sites.google.com/site/postdocrumor/) data after being processed through our bulk CSV parsing script. In particular, each entry in the rumor mill (e.g., a candidate, their institution, and acceptance status) has been enhanced with a new column, "Area," which reflects the research tag (such as hep-th, hep-ph, etc.) retrieved from the candidate’s INSPIRE profile.
 
 - [2025 PostDoc Rumor Mill with tags](https://docs.google.com/spreadsheets/d/e/2PACX-1vTap3j7Gasxo00Ftn38vi_tLRjKDuykVQXUsNubHLXVyJqCqAODGCZokT6Jy_3rWU9e39JzJu9j3gpx/pubhtml) (Updated: 2025-02-19)
 
